@@ -12,25 +12,25 @@
 
 | 平台 | 内容概要 |
 | --- | --- |
-| [🕹️ Famicom / NES](#fc) | 锁区解锁、FC-RGB 套件、复刻 NES、烧录卡、手柄无线化 |
-| [🎮 SFC / SNES](#sfc) | RGB Bypass、全区全制式、烧录卡、锅仔片手柄、rom 工具 |
-| [⚡ MD / Mega Drive](#md) | 转区改制式、Triple Bypass、Mega Amp、FeRAM 记忆卡、SM801X 复刻 |
-| [👾 Game Boy](#gameboy) | 全复刻主板、反显改背光、内录机、MBC 系列烧录卡 |
-| [🌈 GBP / GBC](#gbp-gbc) | 电源板复刻、主板逆向、相机卡复刻、MBC5 震动卡 |
-| [📟 GBA](#gba) | 主板逆向复刻、Type-C 充电、gbaHD 内录机、ChisFlash 系列 |
-| [🦢 WSC / WonderSwan](#wsc) | 硬件 wiki、内录机、复刻卡带、自制联机线 |
-| [✌️ NDS / DS](#nds) | AV 输出、改 GBA（Macro）、Type-C、R4 内核备份 |
-| [🔺 N64](#n64) | RGB / HDMI / DVI 改造、FPGA 进阶项目、烧录卡、FRAM 记忆卡 |
-| [🪐 Saturn](#saturn) | FRAM 改造、数字音频、全区 BIOS |
-| [🎛️ PCE](#pce) | RGB / S-Video 改造、主板复刻、内置蓝牙 |
-| [💿 PS1](#ps1) | SD2PSX 记忆卡、PicoMemcard、数字音频 |
-| [📀 PS2](#ps2) | BlueRetro 外置接收器、直读芯片大全、游戏封面 |
-| [🌀 DC / Dreamcast](#dc) | 手柄转接、光驱改硬盘、HDMI 改造 |
-| [🔲 NGC / GameCube](#ngc) | Xeno 直读、PicoBoot 免盘、GCVideo 系列、开源手柄 |
-| [🌊 Wii](#wii) | HDMI 改造、手柄转接 |
-| [⌚ GameWatch](#gamewatch) | 刷机完整教程 |
-| [📺 视频转换器](#video-converter) | RGBS / VGA 转色差与 S 端子、GBSC 迷你版 |
-| [🎨 Art works](#art-works) | 全机种 logo、标准贴纸底板等美术资源 |
+| [🕹️ Famicom / NES](#user-content-fc) | 锁区解锁、FC-RGB 套件、复刻 NES、烧录卡、手柄无线化 |
+| [🎮 SFC / SNES](#user-content-sfc) | RGB Bypass、全区全制式、烧录卡、锅仔片手柄、rom 工具 |
+| [⚡ MD / Mega Drive](#user-content-md) | 转区改制式、Triple Bypass、Mega Amp、FeRAM 记忆卡、SM801X 复刻 |
+| [👾 Game Boy](#user-content-gameboy) | 全复刻主板、反显改背光、内录机、MBC 系列烧录卡 |
+| [🌈 GBP / GBC](#user-content-gbp-gbc) | 电源板复刻、主板逆向、相机卡复刻、MBC5 震动卡 |
+| [📟 GBA](#user-content-gba) | 主板逆向复刻、Type-C 充电、gbaHD 内录机、ChisFlash 系列 |
+| [🦢 WSC / WonderSwan](#user-content-wsc) | 硬件 wiki、内录机、复刻卡带、自制联机线 |
+| [✌️ NDS / DS](#user-content-nds) | AV 输出、改 GBA（Macro）、Type-C、R4 内核备份 |
+| [🔺 N64](#user-content-n64) | RGB / HDMI / DVI 改造、FPGA 进阶项目、烧录卡、FRAM 记忆卡 |
+| [🪐 Saturn](#user-content-saturn) | FRAM 改造、数字音频、全区 BIOS |
+| [🎛️ PCE](#user-content-pce) | RGB / S-Video 改造、主板复刻、内置蓝牙 |
+| [💿 PS1](#user-content-ps1) | SD2PSX 记忆卡、PicoMemcard、数字音频 |
+| [📀 PS2](#user-content-ps2) | BlueRetro 外置接收器、直读芯片大全、游戏封面 |
+| [🌀 DC / Dreamcast](#user-content-dc) | 手柄转接、光驱改硬盘、HDMI 改造 |
+| [🔲 NGC / GameCube](#user-content-ngc) | Xeno 直读、PicoBoot 免盘、GCVideo 系列、开源手柄 |
+| [🌊 Wii](#user-content-wii) | HDMI 改造、手柄转接 |
+| [⌚ GameWatch](#user-content-gamewatch) | 刷机完整教程 |
+| [📺 视频转换器](#user-content-video-converter) | RGBS / VGA 转色差与 S 端子、GBSC 迷你版 |
+| [🎨 Art works](#user-content-art-works) | 全机种 logo、标准贴纸底板等美术资源 |
 
 ---
 
@@ -246,7 +246,7 @@
 - [MBC1 芯片存档卡-小吞](./GAMEBOY/卡带相关/ProPrj_MBC1%20%20FRAM（AM29F016）(定稿)_2024-09-28.epro)
 - [原装 MBC1 改烧录卡](https://github.com/timville85/MBC1-Flash)
 - [MBC1 芯片存档卡](https://github.com/ConsolesandCasks/MBC1-Jumper-Flash)
-- [烧录器统一见后文 GBA 部分](#gba)
+- [烧录器统一见后文 GBA 部分](#user-content-gba)
 - [卡带按 mbcx 分类查询](https://gbhwdb.gekkio.fi/cartridges/)
 
 ### GB 卡带示波器
@@ -299,7 +299,7 @@
 - [Chisflash-MBC5 @mori](https://oshwhub.com/morinaka/chisflash-mbc5-gbc-shao-lu-ka) —— 支持 NDS 烧录
 - [正版卡 PCB 复刻](https://github.com/HDR/NintendoPCBs)
 - [GBA 卡带版型的 MBC5 卡带](https://github.com/nm3210/GB_Flashcarts)
-- [烧录器见 GBA 部分](#gba)
+- [烧录器见 GBA 部分](#user-content-gba)
 
 ---
 
