@@ -12,29 +12,31 @@
 
 | 平台 | 内容概要 |
 | --- | --- |
-| [🕹️ Famicom / NES](#famicom--nes) | 锁区解锁、FC-RGB 套件、复刻 NES、烧录卡、手柄无线化 |
-| [🎮 SFC / SNES](#sfc--snes) | RGB Bypass、全区全制式、烧录卡、锅仔片手柄、rom 工具 |
-| [⚡ MD / Mega Drive](#md--mega-drive) | 转区改制式、Triple Bypass、Mega Amp、FeRAM 记忆卡、SM801X 复刻 |
-| [👾 Game Boy](#game-boy) | 全复刻主板、反显改背光、内录机、MBC 系列烧录卡 |
-| [🌈 GBP / GBC](#gbp--gbc) | 电源板复刻、主板逆向、相机卡复刻、MBC5 震动卡 |
+| [🕹️ Famicom / NES](#fc) | 锁区解锁、FC-RGB 套件、复刻 NES、烧录卡、手柄无线化 |
+| [🎮 SFC / SNES](#sfc) | RGB Bypass、全区全制式、烧录卡、锅仔片手柄、rom 工具 |
+| [⚡ MD / Mega Drive](#md) | 转区改制式、Triple Bypass、Mega Amp、FeRAM 记忆卡、SM801X 复刻 |
+| [👾 Game Boy](#gameboy) | 全复刻主板、反显改背光、内录机、MBC 系列烧录卡 |
+| [🌈 GBP / GBC](#gbp-gbc) | 电源板复刻、主板逆向、相机卡复刻、MBC5 震动卡 |
 | [📟 GBA](#gba) | 主板逆向复刻、Type-C 充电、gbaHD 内录机、ChisFlash 系列 |
-| [🦢 WSC / WonderSwan](#wsc--wonderswan) | 硬件 wiki、内录机、复刻卡带、自制联机线 |
-| [✌️ NDS / DS](#nds--ds) | AV 输出、改 GBA（Macro）、Type-C、R4 内核备份 |
+| [🦢 WSC / WonderSwan](#wsc) | 硬件 wiki、内录机、复刻卡带、自制联机线 |
+| [✌️ NDS / DS](#nds) | AV 输出、改 GBA（Macro）、Type-C、R4 内核备份 |
 | [🔺 N64](#n64) | RGB / HDMI / DVI 改造、FPGA 进阶项目、烧录卡、FRAM 记忆卡 |
 | [🪐 Saturn](#saturn) | FRAM 改造、数字音频、全区 BIOS |
 | [🎛️ PCE](#pce) | RGB / S-Video 改造、主板复刻、内置蓝牙 |
 | [💿 PS1](#ps1) | SD2PSX 记忆卡、PicoMemcard、数字音频 |
 | [📀 PS2](#ps2) | BlueRetro 外置接收器、直读芯片大全、游戏封面 |
-| [🌀 DC / Dreamcast](#dc--dreamcast) | 手柄转接、光驱改硬盘、HDMI 改造 |
-| [🔲 NGC / GameCube](#ngc--gamecube) | Xeno 直读、PicoBoot 免盘、GCVideo 系列、开源手柄 |
+| [🌀 DC / Dreamcast](#dc) | 手柄转接、光驱改硬盘、HDMI 改造 |
+| [🔲 NGC / GameCube](#ngc) | Xeno 直读、PicoBoot 免盘、GCVideo 系列、开源手柄 |
 | [🌊 Wii](#wii) | HDMI 改造、手柄转接 |
-| [GameWatch](#gamewatch) | 刷机完整教程 |
-| [视频转换器](#视频转换器) | RGBS / VGA 转色差与 S 端子、GBSC 迷你版 |
-| [Art works](#art-works) | 全机种 logo、标准贴纸底板等美术资源 |
+| [⌚ GameWatch](#gamewatch) | 刷机完整教程 |
+| [📺 视频转换器](#video-converter) | RGBS / VGA 转色差与 S 端子、GBSC 迷你版 |
+| [🎨 Art works](#art-works) | 全机种 logo、标准贴纸底板等美术资源 |
 
 ---
 
 ## 🕹️ Famicom / NES
+
+<a id="fc"></a>
 
 ### 本体 Mod
 
@@ -111,6 +113,8 @@
 
 ## 🎮 SFC / SNES
 
+<a id="sfc"></a>
+
 ### 本体 Mod
 
 - [SNES RGB BYPASS MOD](https://github.com/borti4938/SNES_RGB_Bypass) —— 包括 1chip、JR 和早期 2chip 的机型改装
@@ -160,6 +164,8 @@
 ---
 
 ## ⚡ MD / Mega Drive
+
+<a id="md"></a>
 
 ### 本体 Mod
 
@@ -212,6 +218,8 @@
 
 ## 👾 Game Boy
 
+<a id="gameboy"></a>
+
 ### 设备本体 Mod
 
 - VIS_Modding 改装
@@ -257,6 +265,8 @@
 
 ## 🌈 GBP / GBC
 
+<a id="gbp-gbc"></a>
+
 ### 本体 Mod
 
 - [GBP 原装屏幕改反显](./GAMEBOY/gbp反显/)
@@ -295,6 +305,8 @@
 
 ## 📟 GBA
 
+<a id="gba"></a>
+
 ### 本体 Mod
 
 - [AGB-03 主板复刻](https://github.com/nataliethenerd/AGB_ReverseEngineer)
@@ -329,6 +341,8 @@
 
 ## 🦢 WSC / WonderSwan
 
+<a id="wsc"></a>
+
 ### 本体 Mod
 
 - [WS 硬件 wiki](https://ws.nesdev.org/wiki/Main_Page)
@@ -360,6 +374,8 @@
 ---
 
 ## ✌️ NDS / DS
+
+<a id="nds"></a>
 
 ### 本体 Mod
 
@@ -398,6 +414,8 @@
 ---
 
 ## 🔺 N64
+
+<a id="n64"></a>
 
 ### 本体 Mod
 
@@ -453,6 +471,8 @@
 
 ## 🪐 Saturn
 
+<a id="saturn"></a>
+
 ### 本体 Mod
 
 - [系统内存改 FRAM](https://consolemods.org/wiki/Saturn:FRAM_Mod)
@@ -463,6 +483,8 @@
 ---
 
 ## 🎛️ PCE
+
+<a id="pce"></a>
 
 ### 本体 Mod
 
@@ -476,6 +498,8 @@
 ---
 
 ## 💿 PS1
+
+<a id="ps1"></a>
 
 ### 本体 Mod
 
@@ -491,6 +515,8 @@
 
 ## 📀 PS2
 
+<a id="ps2"></a>
+
 ### 本体 Mod
 
 - [外置蓝牙接收器](https://github.com/Micha213/BlueRetro-PS1-2-Receiver) —— 带外壳文件
@@ -500,6 +526,8 @@
 ---
 
 ## 🌀 DC / Dreamcast
+
+<a id="dc"></a>
 
 ### 本体 Mod
 
@@ -516,6 +544,8 @@
 ---
 
 ## 🔲 NGC / GameCube
+
+<a id="ngc"></a>
 
 ### 本体 Mod
 
@@ -564,6 +594,8 @@
 
 ## 🌊 Wii
 
+<a id="wii"></a>
+
 ### 本体 Mod
 
 - [NES, SNES, N64 or Gamecube 手柄接遥控器](https://www.raphnet.net/electronique/extenmote/index_en.php#9)
@@ -575,11 +607,15 @@
 
 ## ⌚ GameWatch
 
+<a id="gamewatch"></a>
+
 - [刷机完全教程](https://bbs.oldmantvg.net/thread-36263.htm)
 
 ---
 
 ## 📺 视频转换器
+
+<a id="video-converter"></a>
 
 - [RGBS 和 VGA 转色差、S 端子](https://oshwhub.com/hualazimo7/rgbs-zhuan-se-ci-s-duan-zi#5)
   - 上述转接器包含了 VGA（RGBHV）转 RGBS 中 HV 同步转 S 同步的原理图
@@ -589,6 +625,8 @@
 ---
 
 ## 🎨 Art Works
+
+<a id="art-works"></a>
 
 美术 / 设计资源目录，包含：
 
