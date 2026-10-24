@@ -10,6 +10,7 @@
 
 ## 🗺️ 快速导航
 
+<a id="top"></a>
 | 平台 | 内容概要 |
 | --- | --- |
 | [🕹️ Famicom / NES](#user-content-fc) | 锁区解锁、FC-RGB 套件、复刻 NES、烧录卡、手柄无线化 |
@@ -111,7 +112,7 @@
 
 ---
 
-<p align="right"><a href="#readme">⬆️ 回到顶部</a></p>
+<p align="right"><a href="#user-content-top">⬆️ 回到顶部</a></p>
 
 ## 🎮 SFC / SNES
 
@@ -165,7 +166,7 @@
 
 ---
 
-<p align="right"><a href="#readme">⬆️ 回到顶部</a></p>
+<p align="right"><a href="#user-content-top">⬆️ 回到顶部</a></p>
 
 ## ⚡ MD / Mega Drive
 
@@ -220,7 +221,7 @@
 
 ---
 
-<p align="right"><a href="#readme">⬆️ 回到顶部</a></p>
+<p align="right"><a href="#user-content-top">⬆️ 回到顶部</a></p>
 
 ## 👾 Game Boy
 
@@ -269,7 +270,7 @@
 
 ---
 
-<p align="right"><a href="#readme">⬆️ 回到顶部</a></p>
+<p align="right"><a href="#user-content-top">⬆️ 回到顶部</a></p>
 
 ## 🌈 GBP / GBC
 
@@ -311,7 +312,7 @@
 
 ---
 
-<p align="right"><a href="#readme">⬆️ 回到顶部</a></p>
+<p align="right"><a href="#user-content-top">⬆️ 回到顶部</a></p>
 
 ## 📟 GBA
 
@@ -349,7 +350,7 @@
 
 ---
 
-<p align="right"><a href="#readme">⬆️ 回到顶部</a></p>
+<p align="right"><a href="#user-content-top">⬆️ 回到顶部</a></p>
 
 ## 🦢 WSC / WonderSwan
 
@@ -385,7 +386,7 @@
 
 ---
 
-<p align="right"><a href="#readme">⬆️ 回到顶部</a></p>
+<p align="right"><a href="#user-content-top">⬆️ 回到顶部</a></p>
 
 ## ✌️ NDS / DS
 
@@ -427,7 +428,7 @@
 
 ---
 
-<p align="right"><a href="#readme">⬆️ 回到顶部</a></p>
+<p align="right"><a href="#user-content-top">⬆️ 回到顶部</a></p>
 
 ## 🔺 N64
 
@@ -485,7 +486,7 @@
 
 ---
 
-<p align="right"><a href="#readme">⬆️ 回到顶部</a></p>
+<p align="right"><a href="#user-content-top">⬆️ 回到顶部</a></p>
 
 ## 🪐 Saturn
 
@@ -500,7 +501,7 @@
 
 ---
 
-<p align="right"><a href="#readme">⬆️ 回到顶部</a></p>
+<p align="right"><a href="#user-content-top">⬆️ 回到顶部</a></p>
 
 ## 🎛️ PCE
 
@@ -517,7 +518,7 @@
 
 ---
 
-<p align="right"><a href="#readme">⬆️ 回到顶部</a></p>
+<p align="right"><a href="#user-content-top">⬆️ 回到顶部</a></p>
 
 ## 💿 PS1
 
@@ -535,7 +536,7 @@
 
 ---
 
-<p align="right"><a href="#readme">⬆️ 回到顶部</a></p>
+<p align="right"><a href="#user-content-top">⬆️ 回到顶部</a></p>
 
 ## 📀 PS2
 
@@ -549,7 +550,7 @@
 
 ---
 
-<p align="right"><a href="#readme">⬆️ 回到顶部</a></p>
+<p align="right"><a href="#user-content-top">⬆️ 回到顶部</a></p>
 
 ## 🌀 DC / Dreamcast
 
@@ -569,7 +570,7 @@
 
 ---
 
-<p align="right"><a href="#readme">⬆️ 回到顶部</a></p>
+<p align="right"><a href="#user-content-top">⬆️ 回到顶部</a></p>
 
 ## 🔲 NGC / GameCube
 
@@ -620,7 +621,7 @@
 
 ---
 
-<p align="right"><a href="#readme">⬆️ 回到顶部</a></p>
+<p align="right"><a href="#user-content-top">⬆️ 回到顶部</a></p>
 
 ## 🌊 Wii
 
@@ -635,7 +636,7 @@
 
 ---
 
-<p align="right"><a href="#readme">⬆️ 回到顶部</a></p>
+<p align="right"><a href="#user-content-top">⬆️ 回到顶部</a></p>
 
 ## ⌚ GameWatch
 
@@ -645,7 +646,7 @@
 
 ---
 
-<p align="right"><a href="#readme">⬆️ 回到顶部</a></p>
+<p align="right"><a href="#user-content-top">⬆️ 回到顶部</a></p>
 
 ## 📺 视频转换器
 
@@ -658,7 +659,7 @@
 
 ---
 
-<p align="right"><a href="#readme">⬆️ 回到顶部</a></p>
+<p align="right"><a href="#user-content-top">⬆️ 回到顶部</a></p>
 
 ## 🎨 Art Works
 
@@ -673,7 +674,7 @@
 
 ---
 
-<p align="right"><a href="#readme">⬆️ 回到顶部</a></p>
+<p align="right"><a href="#user-content-top">⬆️ 回到顶部</a></p>
 
 ## 声明
 
@@ -691,5 +692,5 @@
 ---
 
 <p align="center">
-  <a href="#readme">⬆️ 回到顶部</a>
+  <a href="#user-content-top">⬆️ 回到顶部</a>
 </p>
